@@ -29,7 +29,7 @@ const HeaderGroup = styled.div`
   }
   a {
     text-decoration: none;
-    color: black;
+    color: blue;
   }
 
   @media (max-width: 640px) {
