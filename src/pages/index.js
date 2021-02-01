@@ -101,7 +101,7 @@ export default function Home() {
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
               maxime ipsa eaque aliquid rerum ut officiis consectetur nesciunt
-              odit tenetur.
+              odit tenetur. This is a new era!!
             </p>
             <Link to="/ourservices">Click me</Link>
           </HeroText>
